@@ -1,17 +1,23 @@
 # Team
 
-_uild of Guardians is developed by Stepico Games and published by Immutable. This partnership combines Immutable’s expertise and technology in the blockchain gaming space with Stepico’s proven ability to develop mobile games to deliver an industry-breaking game to players._&#x20;
+We are a modest and dedicated team of 8 professionals, including developers, designers, marketing managers and community managers. Our core team is entrepreneurial and each one has experience in his field.&#x20;
 
-We have a dedicated team of 20+ full-time professionals working on the game, including developers, designers, artists and many more. Our core team is highly entrepreneurial, with experience in founding start-ups and taking products and teams from zero to one. We also combine deep expertise in NFT, blockchain and traditional game development.&#x20;
+### **UNAI - CTO**
 
-We are a modest and dedicated team of 9 professionals working, including developers, designers, artists and
+_Chief Technology Officer & CEO_
 
-**About Stepico Games**&#x20;
+Graduado en arquitectura y trabajando siempre estrechamente con el desarrollo. Trabajó como arquitecto, como desarrollador de diseño parametrico y por ultimo como desarrollador VR. El mundo de los datos le llevo a estudiar los fundamentos del DLT y en especial de la Blockchain. Despues de haber formado equipo en varios proyectos estos ultimos años, esta dispuesto a llevar la critica social al mundo de los colleccionables.
 
-Stepico Games is a leading Ukrainian game development studio with more than 80 designers, artists and developers. They work on top-of-the-line gaming projects and are actively involved in developing innovative solutions for the entertainment industry. The team has developed multiple mobile titles in the strategy and RPG space, which have received more than 5 million downloads.&#x20;
+### GRENIER - CMO
 
-**About Immutable**&#x20;
+Chief Marketing Officer
 
-Immutable is an industry-leading $17m VC-funded blockchain company backed by such investors as Naspers, Galaxy Digital and Coinbase. They are responsible for launching the most successful blockchain Trading Card Game, Gods Unchained,  headed by Chris Clay, the former director of Magic the Gathering Arena. Immutable has also developed Immutable X, the first Ethereum layer two designed for NFTs.
+Ingeniero en sistemas con años de experiencia en sistemas operativos. Comezando sus primeros años como desarrollador web y desarrollo de software mientras que terminaba el posgrado en automatización y comercializacion. Trabajo como tecnico en el sector automotriz, mientras se ha ido enfocando en las nuevas tecnologias y su comercializacion en la nueva era de las redes sociales.
 
-For more information on team members refer to this [**blog article**](https://guildofguardians.medium.com/meet-the-team-building-guild-of-guardians-38bf71c8c6d7)
+### LUIGI - CCO
+
+_Chief Communications Officer_
+
+**Our Goal**
+
+Nuestro objetivo primordial es garantizar la seguridad ante los hackeos que se estan dando ultimamente. Hemos lanzado este formato en el que mediante coleccionables se podra acceder a un mini juego con el que se obtendran rewards. De tal forma que todo queda seguro en la blockchain sin el uso de oraculos ni intermediarios.

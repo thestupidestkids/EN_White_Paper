@@ -1,6 +1,6 @@
 ---
 description: >-
-  Official Whitepaper, last updated August 2021. All contents are subject to
+  Official Whitepaper, last updated February 2022. All contents are subject to
   develop.
 ---
 
@@ -8,18 +8,36 @@ description: >-
 
 ### I**ntroduction**
 
-#### _Guild Of Guardians is a multiplayer, fantasy, action RPG where players build their dream team of Guardians and compete in a guild to earn epic rewards._&#x20;
+#### _The Stupidest Kids a NFT critic collectible with a mini game where we provide an enviroment to our community to protest about actual politics_
 
-Our vision is to build the world’s most popular RPG where millions of players can turn their passion for gaming into real assets. We are on a journey to disrupt the gaming industry and to build the future of play-and-earn - a world where gamers can play a game they enjoy, while simultaneously earning and trading as part of a massive, open-world economy.
+_Nuestra vision es crear una nueva forma de hacer critica en el universo crypto aprobechando el alcance mediatico que tienen los NFTs. Ningun integrante del equipo (meses atras) se habia imaginado que la tension politica llegaria al punto que ha llegado. Dado que la situacion es critica, estamos dando lo mejor de nosotros para ofrecer un proyecto que ridiculice a los politicos actuales, ya que consideramos que se estan portando como crios._
 
-Such an ambitious goal requires relentless focus, and we plan to spearhead the future of NFT gaming by demonstrating excellence in the following areas:
+_Creando un entorno en el que la gente de a pie pueda alzar la voz para reclamar los derechos basicos universales alli donde esten (llendo al trabajo en metro, en el autobus, en casa despues de un dia duro de trabajo...). Siendo asi una comunidad despierta y con un proposito._
 
-* Fun mobile RPG gameplay: Guild of Guardians will be fun and compelling. We plan to have a combination of action RPG, deep strategy, a dynamic trading economy metagame, and social focused gameplay that will keep players engaged for years.
-* Play-and-earn mechanics: There will be a deep and sustainable economy within Guild of Guardians where players can play for free and earn both NFTs and tokens. Just like the real world economy, you can choose how you want to specialise or play within the Guild of Guardians Economy.&#x20;
-* Community driven incentives: We understand the value that a community brings to the game. Guild of Guardians will involve and reward the community for contributing to the growth of the overall ecosystem, and empower creators to build long-term businesses in the Guild of Guardians metaverse.&#x20;
-* Highly accessible: Guild of Guardians will be available on iOS and Android, making it hyper accessible to everyone. The underlying technology will be based on Immutable X, allowing players to enjoy instant and gas-free trading, eventually without even knowing they are using the blockchain.&#x20;
+_// No es facil compaginar el dia a dia con tratar de dejar un mundo mejor, por este motivo el proyecto contara con un minijuego sencillo y divertido que trata de ridiculizar a los altos cargos._
 
-Guild of Guardians will initially be available on iOS and Android and will be released in 2022. In this game, players will take their team of heroes through challenging dungeons to collect resources and earn experience. They can use these resources to craft items or summon heroes which can be traded for real money. Players will be able to build their dream team and will work with their Guild to earn leaderboard and seasonal prizes.
+Such an ambitious goal requires relentless focus in the following areas:
+
+* Collectible : max supply of 200 for each president. There will be from start to finish only 10 presidents. No more in the future in the whole game.&#x20;
+* Discord : Events and governance.
+* Telegram : Community discussion.
+* Medium, Twitter, Youtube, Instagram, Facebook : To reach the audience & Info News.
+* We plan to have a PVP, strategy, a dynamic trading market, and social influence.
+* There will be a sustainable economy where players can play and earn tokens.&#x20;
+*   Community governance future, the value is in our community.&#x20;
+
+    1 ) We will involve our people in the decision making between the different paths TSK may take.
+
+    2 ) Rewards : NFT airdrops, TSK airdrops, Sticker NFT airdrops, $ airdrops.
+* The Stupidest Kids will be available on polygon chain making it accessible to everyone. Which has a very low fee layer two technology.
+
+
+
+
+
+The Stupidest Kids will initially be available as a NFT collectible with a click to earn. Followed by a mini game in the browser.
+
+They can use game internal points to mint NFTs thta can be traded for real money. Players will be able to buy a maximun of 2 NFTs of each president and expresion.
 
 Guild of Guardians is partnered with Guardians Guild Limited, issuing and distributing an in-game currency that will be used in the Guild of Guardians mobile game. The in-game currency, named Gems, is an ERC-20 token that is being created, issued and distributed by Guardians Guild Limited. Players can earn Gems for free by playing the game, and must spend Gems whenever they want to mint a new asset to the blockchain, make a primary or secondary sale purchase, or vote on important game decisions.&#x20;
 
