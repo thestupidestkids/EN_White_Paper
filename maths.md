@@ -8,7 +8,7 @@ On April 7, users will be able to mint 1 P. NFT of each type every 6 hours (for 
 
 **Between May and June** all NFTs will be sold and we'll reach teh **maximun of 2000 players**
 
-(There won't be any possiblity to mint more P. NFTs, never)
+After all NFTs are minted (200 of each), the community will vote on whether or not to expand it with another 1000 players (FP's were used for voting)
 
 ### MINTING
 
