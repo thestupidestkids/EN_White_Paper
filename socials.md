@@ -1,5 +1,9 @@
 # Socials
 
+#### WEBSITE
+
+[https://thestupidestkids.com/](https://thestupidestkids.com)
+
 #### TELEGRAM
 
 [https://t.me/theStupidestKids](https://t.me/theStupidestKids)
